@@ -11,8 +11,7 @@
 🎓 &nbsp;I'm Computer Science Graduate by Universidad Politécnica of Madrid.\
 🌱 &nbsp;I'm on track for learning more about React and web development.\
 🥊 &nbsp;In my free time, I love doing sports, special mention to boxing and bodybuilding.\
-💬 &nbsp;Feel free to reach out to me.\
-✉️ &nbsp;You can shoot me an email at dhdezgr@gmail.com! I'll try to respond as soon as I can.
+💬 &nbsp;Feel free to reach out to me. I'll try to respond as soon as I can.
 
 <br/>
 
@@ -34,3 +33,7 @@
 </p>
 
 <br>
+
+### 🎧 &nbsp;Spotify Playing 
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11127158183)
