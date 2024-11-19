@@ -1,37 +1,36 @@
-<h1 align="center"><b>Hi , I'm Dario Hernandez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+
+<h1 align="center"><b>I'm Dario Hernandez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💻 &nbsp;I have more than three years of professional experience in web development.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm Computer Science Graduate by Universidad Politécnica of Madrid.\
+🌱 &nbsp;I'm on track for learning more about React and web development.\
+🥊 &nbsp;In my free time, I love doing sports, special mention to boxing and bodybuilding.\
+💬 &nbsp;Feel free to reach out to me.\
+✉️ &nbsp;You can shoot me an email at dhdezgr@gmail.com! I'll try to respond as soon as I can.
+
+<br/>
+
+### ⚙ &nbsp;Tech stack
+
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,js,linux,nodejs,postman,react,tailwind,ts,vscode,&perline=14" />
   </a>
 </p>
 
+<br/>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+### 📲 &nbsp;Connect with me 🤝
 
-<!--icons and links-->
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/dhdezgarcia/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:dhdezgr@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="gmail" height="50" width="50" /></a>
 </p>
 
 <br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
